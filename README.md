@@ -19,3 +19,5 @@
 ### Можно почитать / посмотреть:
 - [Документация selenium](https://webdriver.ru/docs/)
 - [How to Develop a Test Automation Framework From Scratch?](https://devqa.io/develop-test-automation-framework-scratch/)
+
+P.S. Ссылку на готовое задание нужно добавить в эту форму: https://form.typeform.com/to/AO0c4ckO
